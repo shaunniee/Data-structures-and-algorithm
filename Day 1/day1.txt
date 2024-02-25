@@ -1,0 +1,7 @@
+Topics Covered
+1)Print statement
+2)Variables
+3)String concatenation
+4)Type conversion
+5)String functions
+6)Arithmetic operations
